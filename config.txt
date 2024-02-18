@@ -1,2 +1,2 @@
-Dao.DaoImpl
-Metier.MetierImpl
+com.vvdev.ioc.enset.Ext.DaoImplV2
+com.vvdev.ioc.enset.Metier.MetierImpl
