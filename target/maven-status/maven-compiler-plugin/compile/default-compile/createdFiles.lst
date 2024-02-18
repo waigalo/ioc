@@ -1,0 +1,8 @@
+com/vvdev/ioc/enset/Pres/Pres2.class
+com/vvdev/ioc/enset/Metier/IMetier.class
+com/vvdev/ioc/enset/IocEnset.class
+com/vvdev/ioc/enset/Dao/DaoImpl.class
+com/vvdev/ioc/enset/Pres/Presentation.class
+com/vvdev/ioc/enset/Ext/DaoImplV2.class
+com/vvdev/ioc/enset/Dao/IDao.class
+com/vvdev/ioc/enset/Metier/MetierImpl.class
